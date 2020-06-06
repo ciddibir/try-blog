@@ -11,8 +11,6 @@ tags:
   
 ---
 
-
-# The Groundhog Day
 The Groundhog Day (‘Bugün Aslında Dündü’ olarak çevrilmiş Türkçeye) aynı günü tekrar tekrar yaşayan bir adamın hikayesini konu alıyor. Film 1993 yapımı olmasına rağmen buaralar her yerde adını görmek mümkün çünkü Kovid-19 salgını sebebiyle eve kapanan bir kısım azınlığın yaşadığı her günün birbirinin aynısı olması hissiyatına tercüme oluyor. 
 
 Son olarak Rewatchables podcastinin son çıkan bölümlerinden [birinde](https://art19.com/shows/the-rewatchables/episodes/9509c1f4-6c0f-4495-a444-1d08c2a6922e) konuşulması (hem de bölüme Insecure dizinin yaratıcısı Issa Rae’nin konuk olduğunu)sebebiyle ben de izlemeye karar verdim.

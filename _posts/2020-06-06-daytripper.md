@@ -9,7 +9,6 @@ tags:
   - edebiyat
 
 image: 
-  thumbnail: /assets/images/Daytripper-giris.jpeg
   path: /assets/images/Daytripper-giris22.jpeg
 ---
 
