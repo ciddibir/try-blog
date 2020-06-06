@@ -8,8 +8,8 @@ tags:
   - edebiyat
   - readability
   - standard
-image:
-  - thumbnail: /assets/images/796C5FA0-0980-4FD8-BCF6-BB7AFC467A5E.jpeg
+image: 
+  thumbnail: /assets/images/796C5FA0-0980-4FD8-BCF6-BB7AFC467A5E.jpeg
 ---
 # Haftaya Bakış
 # 25 Mayıs
