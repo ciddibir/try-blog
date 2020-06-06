@@ -16,7 +16,7 @@ Brezilyalı ikiz kardeşler Fábio Moon ve Gabriel Bá imzalı Daytripper, 2011 
 
 Bras ünlü bir yazarın oğlu ve rol model olarak gördüğü babası gibi kendisi de yazar olmak istiyor ve bir gazetede ölüm ilanları yazarak hayatını idame ettiriyor. Bras ölen insanların hayatlarıyla ilgili anlatılmaya değer bir şeyler bulmaya çalışırken bir yandan da kendi hayatını ve hayatının anlamını sorguluyor. 
 
-![image-center]({{ '/assets/images/Daytripper-sea.jpeg’ | absolute_url }}){: .align-center} /
+![image-center]({{ '/assets/images/Daytripper-sea.jpeg' | absolute_url }}){: .align-center}
 
 Çizgi roman boyunca her sayıda Bras’ın hayatındaki önemli farklı dönemlere gidiyoruz, ilk aşkı veya çocuğunun doğum anı gibi. Yani aslında Bras’ın karakterini oluşturan anlar ve insanlara tanıklık ediyoruz. Spoiler vermiş gibi olacak ama çizgi roman hakkında Google’da aramaya yapsanız göreceğiniz ilk şey olduğu için de sayılmaz bence. 
 
