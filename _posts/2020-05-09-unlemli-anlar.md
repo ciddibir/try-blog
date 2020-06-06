@@ -6,7 +6,7 @@ categories: Ünlemli Anlar
 tags:
   - Amsterdam
   - Doğa
- ---
+---
 
 
 ![image-center]({{ ‘/assets/images/vondelpark1.jpeg’ | absolute_url }}){: .align-center}
