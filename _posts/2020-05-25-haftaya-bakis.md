@@ -1,6 +1,6 @@
 ---
 title: "25 Mayıs Haftası"
-date: 2020-06-06T10:08:50-04:00
+date: 2020-05-25T10:08:50-04:00
 categories:
   - Haftaya Bakış
 tags:
@@ -20,11 +20,9 @@ Son dönemde bir yönetmenin birkaç filmini üst üste izlemek hoşuma gidiyor.
 
 Terrence Malick sinemasıyla ilişkilenme biçimim ilginç oldu. Cannes’da Altın Palmiye alarak bayağı gündem olan Tree of Life (2011) filmini izleyelim demiştik. İzledim diyemiyorum çünkü o zamana kadar hayatımda izlediğim en ilginç filmi ve ben de filmin ruhuna girmeye hiç hazır değilmişim ki, bitiremedim. Ama izlediğim (sanırım ilk 45 dklik filan) kısımdan hatırladığım birkaç sekans zihnimde öyle bir yer etmiş ki ne zaman dolaşırken ağaçların arasından süzülen güneş ışınları görsem ve bisiklet sürerken yavaş çekim ağaçların altından geçsem aklıma Terrence Malick gelir.
 
-- - - -
 ## Ne okuyorum?
 Bu hafta Daytripper (2011) adlı, kısa bir çizgi roman okudum. Uzun bir aradan sonra tekrar çizgi roman okumaya başladım, Daytripper da türünün klasik bir örneği olmamasıyla, romanlardan çizgi roman dünyasına geçmek için güzel bir seçim olmuş. Daytripper hakkında [şurada](https://ciddibir.github.io/try-blog/blog/daytripper/) bir şeyler yazdım.
 
-- - - -
 ## Neye taktım?
 Kendi taze yeşilliklerimi yetiştirmeye takım!  Kovid-19 salgını nedeniyle alışverişe gitmenin daha az tercih edilir hale gelmesi ve karantina hayatı süren insanların evde daha çok vakit geçiriyor olması nedeniyle, son zamanlarda sosyal medyada sürekli bu konuda paylaşımlar görüyordum ve ben de heveslendim. Şimdilik maydanoz, nane, taze soğan ve fesleğenle başladım.
 

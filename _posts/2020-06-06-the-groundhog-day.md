@@ -8,7 +8,6 @@ tags:
   - dizi
   - kovid-19
   - popculture
-  
 ---
 
 The Groundhog Day (‘Bugün Aslında Dündü’ olarak çevrilmiş Türkçeye) aynı günü tekrar tekrar yaşayan bir adamın hikayesini konu alıyor. Film 1993 yapımı olmasına rağmen buaralar her yerde adını görmek mümkün çünkü Kovid-19 salgını sebebiyle eve kapanan bir kısım azınlığın yaşadığı her günün birbirinin aynısı olması hissiyatına tercüme oluyor. 
