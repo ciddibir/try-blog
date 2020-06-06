@@ -11,6 +11,7 @@ tags:
   - standard
 image: 
   path: /assets/images/daysofheaven.jpeg
+  caption: "Days of Heaven (1978)"
 ---
 
 ## Ne izliyorum?
