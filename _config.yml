@@ -16,7 +16,10 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 locale: tr
+title: Ciddi Bir Blog
 email: ciddibirblog@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Bu blogda boş yok!
 baseurl: "/try-blog"
 url: "https://ciddibir.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/images/logo.png"
