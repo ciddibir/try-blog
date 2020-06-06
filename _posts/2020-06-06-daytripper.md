@@ -10,7 +10,7 @@ tags:
 
 image: 
   thumbnail: /assets/images/Daytripper-giris.jpeg
-  path: /assets/images/Daytripper-giris.jpeg
+  path: /assets/images/Daytripper-giris22.jpeg
 ---
 
 Brezilyalı ikiz kardeşler Fábio Moon ve Gabriel Bá imzalı Daytripper, 2011 senesinde Eisner’de en iyi kısa seri (limited series) ödülünü almış, çizgi roman denince ilk akla gelen süper kahraman türünden çok farklı, klasik bir olay örgüsü ve linear bir zaman akışı olmayan, 10 sayılık kısa ve umut tazeleyici bir çizgi roman.
