@@ -20,7 +20,7 @@ Son dönemde bir yönetmenin filmlerini üst üste izlemek hoşuma gidiyor. İns
 ## Ne okuyorum?
 Bu hafta Daytripper (2011) adlı, kısa sadece 10 sayılık bir çizgi roman okudum. Uzun bir aradan sonra çizgi roman tekrar okumaya başladım, Daytripper da türünün klasik bir örneği olmamasıyla, romanlardan çizgi roman dünyasına geçmek için güzel bir seçim olmuş. Daytripper hakkında şurada bir şeyler yazdım.
 
-![image](/assets/images/796C5FA0-0980-4FD8-BCF6-BB7AFC467A5E.jpeg)
+![image](assets/images/796C5FA0-0980-4FD8-BCF6-BB7AFC467A5E.jpeg)
 
 - - - -
 ## Neye taktım?
