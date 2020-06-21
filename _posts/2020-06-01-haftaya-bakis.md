@@ -9,7 +9,7 @@ tags:
   - podcast
   
 image: 
-  path: /assets/images/Daytripper-giris22.jpeg
+  path: /assets/images/leftovers.jpeg
 ---
 
 ## Ne izliyorum?
