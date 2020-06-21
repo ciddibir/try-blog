@@ -1,7 +1,7 @@
 
 ---
 title: "8 Haziran Haftası"
-date: 2020-06-28 10:08:50-04:00
+date: 2020-06-8 10:08:50-04:00
 categories:
   - Haftaya Bakış
 tags:
@@ -9,7 +9,7 @@ tags:
   - rap
   
 image: 
-  path: /assets/images/firewatch.jpeg 
+  path: /assets/images/firewatch.jpeg
   caption: "Firewatch"
 ---
 
