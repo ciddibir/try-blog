@@ -1,6 +1,6 @@
 --- 
 title: "1 Haziran Haftası"
-date: 2020-06-20 16:08:50-04:00
+date: 2020-06-1 16:08:50-04:00
 categories:
   - Haftaya Bakış
 tags:
