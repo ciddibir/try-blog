@@ -1,4 +1,3 @@
-
 ---
 title: "8 Haziran Haftası"
 date: 2020-06-8 10:08:50-04:00
