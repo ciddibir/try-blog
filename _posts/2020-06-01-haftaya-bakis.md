@@ -1,4 +1,4 @@
----
+--- 
 title: "1 Haziran Haftası"
 date: 2020-06-20 16:08:50-04:00
 categories:
@@ -9,8 +9,7 @@ tags:
   - podcast
   
 image: 
-  path: /assets/images/letfovers.jpeg
-  caption: "The Letfovers - Sezon 1(2014)"
+  path: /assets/images/Daytripper-giris22.jpeg
 ---
 
 ## Ne izliyorum?
