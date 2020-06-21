@@ -1,14 +1,13 @@
 ---
 title: "25 Mayıs Haftası"
-date: 2020-05-25T10:08:50-04:00
+date: 2020-05-25 10:08:50-04:00
 categories:
   - Haftaya Bakış
 tags:
-  - Kovid-19
+  - film
   - DIY
-  - edebiyat
-  - readability
-  - standard
+  - çizgi roman
+  
 image: 
   path: /assets/images/daysofheaven.jpeg
   caption: "Days of Heaven (1978)"
