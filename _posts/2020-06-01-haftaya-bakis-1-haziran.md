@@ -10,6 +10,7 @@ tags:
   
 image: 
   path: /assets/images/leftovers.jpeg
+  caption: "The Leftovers (2014)"
 ---
 
 ## Ne izliyorum?
